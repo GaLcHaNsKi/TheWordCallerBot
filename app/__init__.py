@@ -1,0 +1,1 @@
+"""Bible reading Telegram bot."""
